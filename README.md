@@ -1,7 +1,7 @@
 Moodle App
 =================
 
-This is the primary repository of source code for the official mobile app for Moodle.
+This is the primary repository of source code for the official mobile app for Moodle. shared
 
 * [User documentation](https://docs.moodle.org/en/Moodle_app)
 * [Developer documentation](https://moodledev.io/general/app)

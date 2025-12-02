@@ -1,7 +1,9 @@
+This is a fork of the original for my development. If you need the original repository, you will find it at https://github.com/moodlehq/moodleapp
+
 Moodle App
 =================
 
-This is the primary repository of source code for the official mobile app for Moodle. shared
+This is the primary repository of source code for the official mobile app for Moodle. 
 
 * [User documentation](https://docs.moodle.org/en/Moodle_app)
 * [Developer documentation](https://moodledev.io/general/app)
